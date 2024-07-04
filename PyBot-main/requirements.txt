@@ -1,0 +1,14 @@
+
+discord
+dataclasses 
+youtube_dl
+aiohttp  #for gpt
+asyncio  #for music
+schedule 
+pyjokes
+ datetime
+ requests
+gTTS
+nextcord
+
+
